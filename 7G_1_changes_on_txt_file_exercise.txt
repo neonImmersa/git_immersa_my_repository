@@ -1,2 +1,4 @@
 Immersa emdedded edukacija
 7. tjedan - Git osnove
+
+Branch prva_grana
